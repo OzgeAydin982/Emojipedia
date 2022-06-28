@@ -1,0 +1,2 @@
+# Emojipedia
+Emoji Dictionary
